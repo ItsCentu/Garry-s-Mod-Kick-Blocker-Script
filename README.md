@@ -21,6 +21,10 @@ Note: This script will only work if the server has enabled sv_password protectio
 
 This script is released under the MIT License. You are free to use, modify, and distribute it as long as you include the original copyright and license notice in your distribution.
 
+# Version
+
+1.0.0v
+
 # Author
 
 This script was made by Centu.
